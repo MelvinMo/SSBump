@@ -1,5 +1,5 @@
 # SSBump
-This repository contains the codes and documentation for our paper titled "Intelligent Traffic Control with Smart Speed Bumps", which is currently under review at an international IOT conference.
+This repository contains the codes and documentation for our paper titled "Intelligent Traffic Control with Smart Speed Bumps", which is currently under review at one of the IEEE international IoT conferences in 2023.
 
 ## Overview
 
